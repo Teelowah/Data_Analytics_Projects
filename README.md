@@ -10,4 +10,4 @@ Applying theory learned in my Big Data Programming Course in personal projects.
 
 ## Tools and Packages
 
-Developed using Jupyter Notebooks with Python and Spark. Visualizations made using MatPlotLib. 
+Developed using Jupyter Notebook with Python and Spark. Visualizations made using MatPlotLib. 
